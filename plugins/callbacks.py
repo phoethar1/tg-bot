@@ -47,12 +47,12 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://sailay.sailay.workers.dev/0:/BBC%20Slut%20Kyler%20Quinn%20Shows%20Her%20Stud%20Finder.mp4"),
+                    InlineKeyboardButton("How to Deploy?", url="https://www.pornhub.com/view_video.php?viewkey=ph5e39db12a3461"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/mmmovies8"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/mmsubkdrama7")
+                    InlineKeyboardButton("BOT Channel", url="https://www.pornhub.com"),
+                    InlineKeyboardButton("Support Group", url="https://www.pornhub.com")
                 ]
             ]
         )
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://sailay.sailay.workers.dev/0:/BBC%20Slut%20Kyler%20Quinn%20Shows%20Her%20Stud%20Finder.mp4")
+                        "SOURCE CODE", url="https://www.pornhub.com/view_video.php?viewkey=ph5e39db12a3461")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
