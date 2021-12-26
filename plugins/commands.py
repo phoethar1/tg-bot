@@ -46,7 +46,7 @@ async def showid(client, message):
         )   
 
 
-@trojanz.on_message(filters.command('info') & (filters.private | filters.group))
+@phoethar2.on_message(filters.command('info') & (filters.private | filters.group))
 async def showinfo(client, message):
     try:
         cmd, id = message.text.split(" ", 1)
